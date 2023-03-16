@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html>
+     <head> 
+	 <title>دورة html  </title>
+	 </head>
+<body   dir="rtl"> 
+<img src="htm.png"  width="900" height="450" alt="picture html " >
+				<h1>  دورة تعلم  تصميم الويب   </h1>
+		<p> اهداف الدورة </p>
+		<ul>
+		   <li>  التعرف على اساسيات ال html </li>
+		   <li>      التعرف على مفاهيم متقدمه   </li>
+		
+		</ul>
+	<video   controls>  
+
+			<source src="int.mp4" type="video/mp4"   width="400px" height="200px"
+
+
+
+
+
+	</video>
+
+
+
+
+
+
+
+
+
+
+
+</body>	    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+\</html>

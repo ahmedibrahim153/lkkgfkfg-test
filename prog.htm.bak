@@ -1,0 +1,102 @@
+<!DOCTYOE html>
+<html>
+      <head>
+	       <title>دورة html</title>
+	  <style>
+	        table , td , th {border:1px solid black ;}
+	  
+	  
+	  </style>
+	  
+	  
+	  
+	  </head>
+      <body dir="rtl">
+		<img src="htm.png"	width="800px"		height="150px"	alt="img html ">
+	       <h1>اهداف دورة html</h1><!-- عنوان للدورة  -->
+		   
+		       <p> 
+			       <ol>
+				       <li>التعرف على مفهوم ال <b> html </b> </li>
+                       <li>لتعرف على خصائص الوسو <i> tags </i></li>
+					   <li>بناء صفحة ويب متكامله <strong> استاتيك</strong></li>  					   
+				   
+				   </ol>	
+				
+			   
+			   </p>
+			       <P>
+						<h2> مواعيد الدورة </h2>
+								مواعيد الدورة تبدا من  <br/>
+								الساعه 11:00<sub>am</sub>
+								حتى الساعه 12:00<sub>am</sub>
+					</p>
+				<p>
+												   <b>	مستويات دورة html 			   </b><br/>
+
+			   <sup> 1st </sup> level : مفاهيم اساسيه  <br/>
+			      <sup> 2end </sup> level : مفاهيم متقدمه
+				  <hr/>
+			   </p>
+		ا 
+              للمرجع قم بالضغط
+			  <a href="https://www.google.com">هنا </a>
+			   
+			   </p>
+			   <p>
+			   <video     controls>
+			          <source src="int.mp4"   type="video/mp4">
+			   
+			   
+			   </video>
+			   
+			   
+			   
+				</p>     
+				<p>جدول 
+
+<table>
+      <tr> 
+			<th>اليوم </th>
+			<th> المكان </th>
+	  
+	  </tr>
+
+	<tr>
+	         <td> الاحد والاثنين </td>
+			 <td> class A  </td>
+	</tr>
+	<tr>
+			<td> الثلاثاء والاربعاء  </td>
+			<td> class B </td> 
+	</tr>
+     <tr>
+	     <td>	الخميس  </td>
+		 <td>   عن بعد </td>
+
+	 </tr>
+				</p>     <br/><hr/>
+				<p>
+								<form>
+			<labelfor="name">	اسم المستخدم<label>
+			<input type="text"  id="name">
+			<label for="lastname" >  الاسم الثاني  </label>
+			<input type="text" id="lastname">
+			<br>
+			<p> الجنس  </p>
+			<input  type="radio" id="famel"  name="gender">
+			<label for="famel">  انثى <label>
+			<input type="radio"  id="male" name="gender">
+			<label for="male">ذكر  </label>
+			</p>
+	<p>  اين سمعت عن الدورة  </p>
+			<input type="checkbox"		id="friend" name="friend">
+			<label for="friend" >  صديق  </label>
+			
+	</form>
+		
+	  </body>
+
+</html>
+
+
